@@ -1,0 +1,81 @@
+.time {
+  width: 70%;
+  height: 43px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+
+
+.loc
+ {
+   display: inline;
+  width: 70%;
+  height: 43px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+ }
+
+input[type=text], select {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+  fieldset
+  {
+    border-top: thin;
+    border-right: thin;
+    border-left: thin;
+    border-bottom: thin;
+    border-color: #674697;
+    border-radius: 2%;
+    border-style:dotted;
+    padding: 20px;
+    width: 900px;
+  }
+
+  span
+  {
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #text1
+  {
+    line-height: 2.5;
+  }
+  .phone
+  {
+    display: grid;
+    width: 70%;
+    height: 43px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  .display
+  {
+    display: block;
+    line-height: 2.5;
+    margin-top: -25px;
+  }
+  input[type=submit] {
+    width: 70%;
+    background-color: #674697;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .HoverButton:hover {
+    background-color: #74618f;
+
+  }
+  /* end styleForm*/
